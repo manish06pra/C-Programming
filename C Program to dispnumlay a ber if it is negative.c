@@ -12,3 +12,4 @@ printf("The entered integer is negative:");
 }
 return 0;
 }
+
