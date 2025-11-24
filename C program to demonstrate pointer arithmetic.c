@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdlib.h>
 int main(){
  int arr[]={5,10,15,20,25};
  int*ptr=arr;
@@ -10,3 +11,4 @@ int main(){
   printf("After ptr+=2;ptr=%p,*ptr=%d\n",ptr,*ptr);
   return 0;
 }
+
