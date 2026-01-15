@@ -9,3 +9,4 @@ int main(){
     printf("Sum of first 10 numbers: %d",sum);
     return 0;
 }
+
