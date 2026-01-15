@@ -11,3 +11,4 @@ strcat(s1,s2);
 printf("Result= %s",s1);
 return 0;
 }
+
