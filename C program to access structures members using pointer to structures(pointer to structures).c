@@ -12,3 +12,4 @@ printf("ID:%d\n",ptr->id);
 printf("Name:%s\n",ptr->name);
 return 0;
 }
+
