@@ -8,3 +8,4 @@ char word[]="C Programming";
 printf("Length of the string: %lu", strlen(word));
 return 0;
 }
+
