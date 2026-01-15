@@ -14,3 +14,4 @@ int main(){
     display(&s1);
     return 0;
 }
+
