@@ -9,3 +9,4 @@ strcpy(des,src);
 printf("Result: %s",des);
 return 0;
 }
+
