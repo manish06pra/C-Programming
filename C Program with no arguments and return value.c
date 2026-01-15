@@ -11,3 +11,4 @@ int main(){
 int n=getNumber();
 printf("You entered:%d",n);
 }
+
