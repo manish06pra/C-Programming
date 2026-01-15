@@ -8,3 +8,4 @@ int main(){
     int result=sum(10,5);
     printf("sum=%d",result);
 }
+
