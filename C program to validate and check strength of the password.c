@@ -14,13 +14,13 @@ int main() {
 
     int len = strlen(password);
 
-    /* Length validation */
+    
     if (len < 8 || len > 15) {
         printf("Password length must be between 8 and 15 characters.\n");
         return 0;
     }
 
-    /* Check conditions */
+    
     for (i = 0; password[i] != '\0'; i++) {
         if (isupper(password[i]))
             hasUpper = 1;
@@ -43,4 +43,5 @@ int main() {
 
     return 0;
 }
+
 
